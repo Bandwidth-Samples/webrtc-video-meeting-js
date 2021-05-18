@@ -1,0 +1,18 @@
+{
+  "name": "webrtc-video-meeting-js",
+  "version": "1.0.0",
+  "description": "sample webrtc video app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@bandwidth/webrtc": "^0.6.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
